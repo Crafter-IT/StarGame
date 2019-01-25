@@ -24,6 +24,7 @@ public class Base2DScreen implements Screen, InputProcessor {
 
     private Vector2 touch;
 
+
     @Override
     public void show() {
         System.out.println("show");
