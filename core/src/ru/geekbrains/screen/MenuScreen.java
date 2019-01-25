@@ -48,7 +48,6 @@ public class MenuScreen extends Base2DScreen {
     }
 
 
-
     @Override
     public void resize(int width, int height) {
         super.resize(width, height);
