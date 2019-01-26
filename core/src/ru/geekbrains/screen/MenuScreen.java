@@ -68,7 +68,6 @@ public class MenuScreen extends Base2DScreen {
         System.out.println(" ");
 
         return super.touchDown(touch, pointer);
-
     }
 }
 
